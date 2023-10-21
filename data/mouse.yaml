@@ -1,0 +1,6 @@
+train: G:/My Drive/Colab_Notebooks/mouse_tracking/images/train_shrinked_aug_2
+val: G:/My Drive/Colab_Notebooks/mouse_tracking/images/val/
+
+nc: 1
+
+names: ['Mouse']
